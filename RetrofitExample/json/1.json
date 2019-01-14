@@ -1,0 +1,35 @@
+{
+  "OxirgiZapislar":["","","","","","","","",""],
+  "YurishKimmiki":"",
+  "Kartatarqaldi":"false",
+  "Uyinchilar":"",
+  "Huy":"",
+  "hu3":"",
+  "timede":["","","","","","","","",""],
+  "timede2":["","","","","","","","",""],
+  "kimmiyurishi":"",
+  "TikilganPullar":["","","","","","","","",""],
+  "Xammakartalar":"",
+  "Javoblade":["","","","","","","","",""],
+  "grop2help":"",
+  "NumberOfGroup":1,
+  "ochered":[],
+  "howmanyplayers":0,
+  "KimBoshlashi":0,
+  "messages":[
+    ["1","2"],
+    ["1","2"]
+  ],
+  "bots":[
+    { "online":"","money":"","pul":"",
+      "indexq":1,"Id":"","botname":"",
+      "keraklide":0,"uyinchilar":"12",
+      "judegement":0,"groupnumber":0,
+      "Pas":"","uyindanOldingiPuli":0,
+      "mik":0,"EngKatta":0,"idBot":0,
+      "minstavka":0,"yol":"",
+      "qaysiligiKartani":"","uziniKartasi":"",
+      "urtadagiKartalar":""
+    }
+  ]
+}
